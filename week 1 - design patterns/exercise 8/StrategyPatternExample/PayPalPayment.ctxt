@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PayPalPayment
+comment1.params=emailId\ password
+comment1.target=PayPalPayment(java.lang.String,\ java.lang.String)
+comment2.params=amount
+comment2.target=void\ pay(double)
+numComments=3

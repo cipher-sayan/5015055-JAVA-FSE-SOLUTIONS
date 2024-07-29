@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StockMarket
+comment1.params=
+comment1.target=StockMarket()
+comment2.params=observer
+comment2.target=void\ registerObserver(Observer)
+comment3.params=observer
+comment3.target=void\ removeObserver(Observer)
+comment4.params=
+comment4.target=void\ notifyObservers()
+comment5.params=stockPrice
+comment5.target=void\ setStockPrice(double)
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SquareAdapter
+comment1.params=square
+comment1.target=SquareAdapter(Square)
+comment2.params=amount
+comment2.target=void\ processPayment(double)
+numComments=3

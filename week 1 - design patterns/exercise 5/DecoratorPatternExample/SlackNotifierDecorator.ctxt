@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SlackNotifierDecorator
+comment1.params=notifier
+comment1.target=SlackNotifierDecorator(Notifier)
+comment2.params=message
+comment2.target=void\ send(java.lang.String)
+comment3.params=message
+comment3.target=void\ sendSlack(java.lang.String)
+numComments=4

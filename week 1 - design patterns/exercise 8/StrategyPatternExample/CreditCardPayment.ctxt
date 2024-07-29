@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CreditCardPayment
+comment1.params=name\ cardNumber\ cvv\ dateOfExpiry
+comment1.target=CreditCardPayment(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=amount
+comment2.target=void\ pay(double)
+numComments=3

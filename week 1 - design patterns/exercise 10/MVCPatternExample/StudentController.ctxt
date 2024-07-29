@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StudentController
+comment1.params=model\ view
+comment1.target=StudentController(Student,\ StudentView)
+comment2.params=name
+comment2.target=void\ setStudentName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getStudentName()
+comment4.params=id
+comment4.target=void\ setStudentId(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getStudentId()
+comment6.params=grade
+comment6.target=void\ setStudentGrade(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getStudentGrade()
+comment8.params=
+comment8.target=void\ updateView()
+numComments=9

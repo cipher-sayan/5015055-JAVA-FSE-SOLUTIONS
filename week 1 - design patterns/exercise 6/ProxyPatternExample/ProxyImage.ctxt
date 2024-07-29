@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ProxyImage
+comment1.params=filename
+comment1.target=ProxyImage(java.lang.String)
+comment2.params=
+comment2.target=void\ display()
+numComments=3

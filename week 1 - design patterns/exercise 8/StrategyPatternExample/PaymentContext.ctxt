@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PaymentContext
+comment1.params=paymentStrategy
+comment1.target=void\ setPaymentStrategy(PaymentStrategy)
+comment2.params=amount
+comment2.target=void\ executePayment(double)
+numComments=3

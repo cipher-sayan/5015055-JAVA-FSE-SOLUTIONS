@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CustomerService
+comment1.params=customerRepository
+comment1.target=CustomerService(CustomerRepository)
+comment2.params=id
+comment2.target=Customer\ getCustomerById(java.lang.String)
+numComments=3

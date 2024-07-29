@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StripeAdapter
+comment1.params=stripe
+comment1.target=StripeAdapter(Stripe)
+comment2.params=amount
+comment2.target=void\ processPayment(double)
+numComments=3

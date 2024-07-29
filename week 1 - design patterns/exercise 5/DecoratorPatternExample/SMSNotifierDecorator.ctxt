@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SMSNotifierDecorator
+comment1.params=notifier
+comment1.target=SMSNotifierDecorator(Notifier)
+comment2.params=message
+comment2.target=void\ send(java.lang.String)
+comment3.params=message
+comment3.target=void\ sendSMS(java.lang.String)
+numComments=4

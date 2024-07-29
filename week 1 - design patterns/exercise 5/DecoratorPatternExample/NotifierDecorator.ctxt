@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NotifierDecorator
+comment1.params=notifier
+comment1.target=NotifierDecorator(Notifier)
+comment2.params=message
+comment2.target=void\ send(java.lang.String)
+numComments=3

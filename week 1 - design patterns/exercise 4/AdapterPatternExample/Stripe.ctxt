@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Stripe
+comment1.params=amount
+comment1.target=void\ makePayment(double)
+numComments=2

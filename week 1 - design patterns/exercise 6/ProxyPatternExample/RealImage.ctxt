@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RealImage
+comment1.params=filename
+comment1.target=RealImage(java.lang.String)
+comment2.params=
+comment2.target=void\ loadImageFromDisk()
+comment3.params=
+comment3.target=void\ display()
+numComments=4
