@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SortingAlgorithms
+comment1.params=orders
+comment1.target=void\ bubbleSort(Order[])
+comment2.params=orders\ low\ high
+comment2.target=void\ quickSort(Order[],\ int,\ int)
+comment3.params=orders\ low\ high
+comment3.target=int\ partition(Order[],\ int,\ int)
+numComments=4

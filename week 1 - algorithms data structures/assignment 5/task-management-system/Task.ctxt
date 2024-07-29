@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Task
+comment1.params=taskId\ taskName\ status
+comment1.target=Task(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTaskId()
+comment3.params=taskId
+comment3.target=void\ setTaskId(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getTaskName()
+comment5.params=taskName
+comment5.target=void\ setTaskName(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getStatus()
+comment7.params=status
+comment7.target=void\ setStatus(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

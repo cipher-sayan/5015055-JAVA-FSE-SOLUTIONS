@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EmployeeManagementSystem
+comment1.params=capacity
+comment1.target=EmployeeManagementSystem(int)
+comment2.params=employee
+comment2.target=void\ addEmployee(Employee)
+comment3.params=employeeId
+comment3.target=Employee\ searchEmployeeById(java.lang.String)
+comment4.params=
+comment4.target=void\ traverseEmployees()
+comment5.params=employeeId
+comment5.target=void\ deleteEmployeeById(java.lang.String)
+numComments=6

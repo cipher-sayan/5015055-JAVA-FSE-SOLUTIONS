@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FinancialForecasting
+comment1.params=principal\ annualGrowthRate\ years
+comment1.target=double\ calculateFutureValue(double,\ double,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
